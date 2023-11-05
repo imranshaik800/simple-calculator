@@ -1,0 +1,10 @@
+.input-element {
+    width: 280px;
+    height: 70px;
+    margin: 10px;
+    background-color: #46463F;
+    border-radius: 10px;
+    text-align: right;
+    padding-right: 4px;
+    overflow-x: scroll hidden;
+}
