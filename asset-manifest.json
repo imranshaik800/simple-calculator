@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imranshaik800/simple-calculator.git/static/css/main.c85ededd.css",
+    "main.js": "/imranshaik800/simple-calculator.git/static/js/main.5da994b0.js",
+    "static/js/787.5f81c7f8.chunk.js": "/imranshaik800/simple-calculator.git/static/js/787.5f81c7f8.chunk.js",
+    "index.html": "/imranshaik800/simple-calculator.git/index.html",
+    "main.c85ededd.css.map": "/imranshaik800/simple-calculator.git/static/css/main.c85ededd.css.map",
+    "main.5da994b0.js.map": "/imranshaik800/simple-calculator.git/static/js/main.5da994b0.js.map",
+    "787.5f81c7f8.chunk.js.map": "/imranshaik800/simple-calculator.git/static/js/787.5f81c7f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c85ededd.css",
+    "static/js/main.5da994b0.js"
+  ]
+}
